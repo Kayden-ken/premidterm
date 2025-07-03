@@ -13,16 +13,36 @@ body {
 }
 .container > h1 {
     display: inline-block;
+    position: relative;
+    left: 200px;
 }
 .container > h1:nth-child(2) {
     border:#FFBE0B 2px solid;
     color: #FF1861
-
 }
 .container > h2 {
     font-weight: lighter;
     display: inline-block;
     margin-left: 20px;
+    position: relative;
+
+}
+.container > h2:nth-child(3) {
+    display: inline-block;
+    left: 300px;
+}
+.container > h2:nth-child(4) {
+    display: inline-block;
+    left: 330px;
+}
+.container > h2:nth-child(5) {
+    display: inline-block;
+    left: 360px;
+}
+.container > h2:nth-child(6) {
+    font-weight: 700;
+    display: inline-block;
+    left: 600px;
 }
 .text {
     position: relative;
@@ -39,8 +59,29 @@ body {
     width: 464px;
     height: 373.06px;
     position: relative;
-    top: 268px;
+    top: 175px;
     left: 228px;
     border-radius: 10px;
     border: 1px; 
+}
+.banner2 {
+    width: 287.12px;
+    height: 242.7px;
+    position: relative;
+    bottom: 150px;
+    left: 316px;
+    border-radius: 10px;
+    border: 1px; 
+}
+.search {
+    position: relative;
+    border: 3px;
+    left: 1079px;
+    bottom: 805px;
+}
+.signup {
+    position: relative;
+    bottom: 500px;
+    left: 799px;
+    border: 1px;
 }
