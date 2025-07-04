@@ -14,11 +14,13 @@ body {
 .container > h1 {
     display: inline-block;
     position: relative;
-    left: 200px;
+    left: 210px;
 }
 .container > h1:nth-child(2) {
-    border:#FFBE0B 2px solid;
-    color: #FF1861
+    border: #FFBE0B 2px solid;
+    color: #FF1861;
+    background-color: #FFBE0B;
+    border-radius: 5px;
 }
 .container > h2 {
     font-weight: lighter;
@@ -56,8 +58,6 @@ body {
     height: 105px;
 }
 .banner1 {
-    width: 464px;
-    height: 373.06px;
     position: relative;
     top: 175px;
     left: 228px;
@@ -65,8 +65,6 @@ body {
     border: 1px; 
 }
 .banner2 {
-    width: 287.12px;
-    height: 242.7px;
     position: relative;
     bottom: 150px;
     left: 316px;
@@ -77,11 +75,42 @@ body {
     position: relative;
     border: 3px;
     left: 1079px;
-    bottom: 805px;
+    bottom: 810px;
 }
 .signup {
     position: relative;
     bottom: 500px;
     left: 799px;
     border: 1px;
+}
+.text2{
+    width: 397px;
+    height: 105px;
+    position: relative;
+    left: 834px;
+    bottom: 480px;
+}
+.container2 {
+    width: 435px;
+    height: 55px;
+    position: relative;
+    left: 235px;
+    bottom: 500px;
+    font-weight: bold;
+    color: #111D4A;
+    line-height: 100%;
+}
+.container2 > h2 {
+    font-size: 20px;
+    line-height: 100%;
+    width: 407px;
+    height: 46px;
+    color: black;
+    position: relative;
+    top: 25px;
+}
+.image1 {
+    position: relative;
+    left: 653px;
+    bottom: 480px; 
 }
