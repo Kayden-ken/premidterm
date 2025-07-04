@@ -31,15 +31,15 @@ body {
 }
 .container > h2:nth-child(3) {
     display: inline-block;
-    left: 300px;
+    left: 330px;
 }
 .container > h2:nth-child(4) {
     display: inline-block;
-    left: 330px;
+    left: 360px;
 }
 .container > h2:nth-child(5) {
     display: inline-block;
-    left: 360px;
+    left: 390px;
 }
 .container > h2:nth-child(6) {
     font-weight: 700;
@@ -109,8 +109,70 @@ body {
     position: relative;
     top: 25px;
 }
+.container2 > h3 {
+    width: 373px;
+    height: 59px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: black;
+    position: relative;
+    top: 25px;
+}
+.container3 {
+    font-size: 20px;
+    line-height: 100%;
+    width: 407px;
+    height: 46px;
+    color: black;
+    position: relative;
+    bottom: 370px;
+    left: 235px;
+}
+.line1 {
+    width: 372.5px;
+    color: black;
+    position: relative;
+    right: 30px;
+}
+.line2 {
+    width: 372.5px;
+    color: black;
+    position: relative;
+    right: 30px;
+    top: 50px;
+}
+.line3 {
+    width: 372.5px;
+    color: black;
+    position: relative;
+    right: 30px;
+    top: 103px;
+}
+.line4 {
+    width: 372.5px;
+    color: black;
+    position: relative;
+    right: 30px;
+    top: 156px;
+}
+.line5 {
+    width: 372.5px;
+    color: black;
+    position: relative;
+    right: 30px;
+    top: 209px;
+}
 .image1 {
     position: relative;
     left: 653px;
-    bottom: 480px; 
+    bottom: 740px; 
+}
+.more  {
+    width: 46px;
+    height: 17px;
+    position: relative;
+    left: 1160px;
+    bottom: 745px; 
+    font-weight: lighter;
 }
