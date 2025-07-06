@@ -306,10 +306,10 @@ body {
 }
 .aca {
     background-color: #8338EC;
-    width: 1440px;
+    width: 1500px;
     height: 513px;
     position: relative;
-    bottom: 1407px;
+    bottom: 1408px;
 }
 .aca > h1 {
     position: relative;
@@ -374,7 +374,7 @@ body {
 }
 .start {
     background-color: RGB(17, 29, 74);
-    width: 1440px;
+    width: 1500px;
     height: 435px;
     position: relative;
     bottom: 1825px;
