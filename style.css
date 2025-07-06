@@ -410,3 +410,24 @@ body {
     bottom: 2000px;
     text-align: center;
 }
+.container6 > h1 {
+    display: inline-block;
+    position: relative;
+    left: 67px;
+    bottom: 1800px;
+}
+.container6 > h1:nth-child(2) {
+    border: black 2px solid;
+    color: #FFFFFF;
+    background-color: #000000;
+    border-radius: 5px;
+}
+.cr2 {
+    font-weight: 400;
+    size: 14px;
+    height: 17px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    left: 67px;
+    bottom: 1840px;
+}
