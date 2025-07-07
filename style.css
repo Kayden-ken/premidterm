@@ -165,12 +165,10 @@ body {
     top: 209px;
 }
 .line6 {
-    width: 1292.5px;
-    color: black;
+    width: 1400px;
+    color: black ;
     position: relative;
-    left: 67px;
     bottom: 1800px;
-
 }
 .image1 {
     position: relative;
@@ -245,7 +243,7 @@ body {
     color: white;
     position: relative;
     top: 30px;
-    left: 480px;
+    left: 500px;
 }
 .k {
     width: 108.43px;
@@ -253,7 +251,7 @@ body {
     font-size: 40px;
     color: white;
     position: relative;
-    left: 295.85px;
+    left: 310px;
     bottom: 1200px;
 }
 .i {
@@ -262,7 +260,7 @@ body {
     font-size: 40px;
     color: white;
     position: relative;
-    left: 671.66px;
+    left: 700px;
     bottom: 1280px;
 }
 .n {
@@ -271,7 +269,7 @@ body {
     font-size: 40px;
     color: white;
     position: relative;
-    left: 1047.47px;
+    left: 1070px;
     bottom: 1360px;
 }
 .t {
@@ -281,7 +279,7 @@ body {
     color: white;
     font-weight: lighter;
     position: relative;
-    left: 290px;
+    left: 308px;
     bottom: 1400px;
 }
 .s {
@@ -291,7 +289,7 @@ body {
     color: white;
     font-weight: lighter;
     position: relative;
-    left: 670px;
+    left: 698px;
     bottom: 1445px;
 }
 .a {
@@ -301,15 +299,15 @@ body {
     color: white;
     font-weight: lighter;
     position: relative;
-    left: 1030px;
+    left: 1060px;
     bottom: 1480px;
 }
 .aca {
     background-color: #8338EC;
-    width: 1500px;
+    width: 1700px;
     height: 513px;
     position: relative;
-    bottom: 1408px;
+    bottom: 1407px;
 }
 .aca > h1 {
     position: relative;
@@ -374,10 +372,10 @@ body {
 }
 .start {
     background-color: RGB(17, 29, 74);
-    width: 1500px;
+    width: 1800px;
     height: 435px;
     position: relative;
-    bottom: 1825px;
+    bottom: 1830px;
 }
 .start > h1 {
     width: 283px;
@@ -430,4 +428,28 @@ body {
     position: relative;
     left: 67px;
     bottom: 1840px;
+}
+.rec {
+    border: 2px;
+    position: relative;
+    left: 231px;
+    bottom: 2870px;   
+}
+.rec2 {
+    border: 2px;
+    position: relative;
+    left: 909px;
+    bottom: 2700px;
+}
+.power {
+    text-align: center;
+    font-weight: 400;
+    position: relative;
+    bottom: 2485px;
+}
+.aright {
+    text-align: center;
+    font-weight: 400;
+    position: relative;
+    bottom: 2505px;
 }
