@@ -135,6 +135,7 @@ body {
     color: black;
     position: relative;
     right: 30px;
+    border-bottom: 1px solid black;
 }
 .line2 {
     width: 372.5px;
@@ -142,6 +143,7 @@ body {
     position: relative;
     right: 30px;
     top: 50px;
+    border-bottom: 1px solid black;
 }
 .line3 {
     width: 372.5px;
@@ -149,6 +151,7 @@ body {
     position: relative;
     right: 30px;
     top: 103px;
+    border-bottom: 1px solid black;
 }
 .line4 {
     width: 372.5px;
@@ -156,6 +159,7 @@ body {
     position: relative;
     right: 30px;
     top: 156px;
+    border-bottom: 1px solid black;
 }
 .line5 {
     width: 372.5px;
@@ -163,12 +167,14 @@ body {
     position: relative;
     right: 30px;
     top: 209px;
+    border-bottom: 1px solid black;
 }
 .line6 {
     width: 1400px;
     color: black ;
     position: relative;
     bottom: 1800px;
+    border-bottom: 1px solid black;
 }
 .image1 {
     position: relative;
@@ -196,6 +202,7 @@ body {
     left: 240px;
 }
 .container4 > h2 {
+    
     width: 529px;
     height: 100px;
     line-height: 25px;
@@ -205,13 +212,13 @@ body {
     left: 260px;
     font-weight: lighter;
 }
-.container5 {
+/* .container5 {
     width: 1440px;
     height: 513px;
     background-color: #8338EC;
     position: relative;
     bottom: 1020px;
-}
+} */
 .image2 {
     position: relative;
     left: 874px;
